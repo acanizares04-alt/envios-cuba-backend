@@ -1,1 +1,0 @@
-// contenido disponible en canvas
